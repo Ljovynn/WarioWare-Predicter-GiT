@@ -3,7 +3,7 @@ A program for the game WarioWare: Get it Together that can predict microgames.
 
 The current stages the program can predict microgames for are: 
 Every story stage,
-All Mixed Up (Up to microgame 608), 
+All Mixed Up (Up to microgame 614), 
 Super Hard,
 Thrill Ride,
 Penny's Mix.
