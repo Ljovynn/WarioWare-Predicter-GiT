@@ -2,9 +2,10 @@
 A program for the game WarioWare: Get it Together that can predict microgames.
 
 The current stages the program can predict microgames for are: 
-Every story mode stage,
+Every story stage,
 All Mixed Up (Up to microgame 608), 
-Super Hard & Thrill Ride,
+Super Hard,
+Thrill Ride,
 Penny's Mix.
 
 There is also a warning text a few microgames ahead of levels where "Answer Me!" can appear, to alert the player in advance.
@@ -15,7 +16,9 @@ Both remix stages and all wario cups will be added soon<sup>TM</sup>
 
 # Version 2.1 (Updated 2022-10-29)
 
--Fixed it so All Mixed Up actually got updated to over 409. All Mixed Up also got updated to include microgames up to 614
+-Fixed it so All Mixed Up got properly updated to over 429
+
+-Updated All Mixed Up to microgame 614
 
 # Version 2.0 (Updated 2022-10-28)
 
