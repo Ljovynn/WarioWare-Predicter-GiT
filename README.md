@@ -15,7 +15,7 @@ Both remix stages and all wario cups will be added soon<sup>TM</sup>
 
 # Version 2.0 (Updated 2022-10-28)
 
--New Menu, which can be navigated using the arrow keys
+-New menu, which can be navigated using the arrow keys
 
 -Added all story stages
 
