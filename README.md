@@ -9,7 +9,9 @@ Penny's Mix.
 
 There is also a warning text a few microgames ahead of levels where "Answer Me!" can appear, to alert the player in advance.
 
-How to use: After choosing a stage, you can press space to go forward 1 level, Enter to go forward 10 levels, and backspace to go back 1 level.
+How to use: After choosing a stage, you can press space to go forward 1 level, Enter to go forward 10 levels, and backspace to go back 1 level
+
+Both remix stages and all wario cups will be added soon<sup>TM</sup>
 
 # Version 2.0 (Updated 2022-10-28)
 
