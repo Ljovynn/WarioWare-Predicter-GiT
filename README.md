@@ -11,7 +11,7 @@ There is also a warning text a few microgames ahead of levels where "Answer Me!"
 
 How to use: After choosing a stage, you can press space to go forward 1 level, Enter to go forward 10 levels, and backspace to go back 1 level.
 
-**Version 2.0 (Updated 2022-10-28)**
+# Version 2.0 (Updated 2022-10-28)
 
 -New Menu, which can be navigated using the arrow keys
 
