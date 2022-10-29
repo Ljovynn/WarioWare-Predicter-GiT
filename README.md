@@ -7,8 +7,8 @@ All Mixed Up (up to microgame 614),
 Super Hard,
 Thrill Ride,
 Penny's Mix,
-Remix (up to microgame 121)
-Remix 2.0 (up to microgame 120)
+Remix
+Remix 2.0
 
 There is also a warning text a few microgames ahead of levels where "Answer Me!" can appear, to alert the player in advance.
 
@@ -16,9 +16,13 @@ How to use: After choosing a stage, you can press space to go forward 1 level, E
 
 All wario cups will be added soon<sup>TM</sup>
 
+# Version 2.3 (2022-10-29)
+
+-Updated Remix and Remix 2.0 to microgame 999
+
 # Version 2.2 (2022-10-29)
 
--Added Remix and Remix 2.0 (please record and upload some good runs so I can update them beyond 120)
+-Added Remix and Remix 2.0
 
 # Version 2.1 (2022-10-29)
 
