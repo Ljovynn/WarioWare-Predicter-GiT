@@ -19,6 +19,8 @@ All wario cups will be added soon<sup>TM</sup>
 Big thanks to TheoGN87 for providing pattern information on All Mixed Up, Super Hard, Penny's Mix and the story stages. Also a big thanks to
 Super Mario Wiki for providing information on all the wario cup patterns (although some were not fully completed, which I fixed for this app.)
 
+If you have any feedback to provide (more information on microgame patterns are very appreciated), contact me on Discord: Ljovynn#2602
+
 Finally, if you want to talk about anything related to WarioWare, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
 
 # Version 2.3 (2022-10-29)
