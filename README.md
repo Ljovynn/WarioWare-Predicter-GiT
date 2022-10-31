@@ -16,6 +16,9 @@ How to use: After choosing a stage, you can press space to go forward 1 level, E
 
 All wario cups will be added soon<sup>TM</sup>
 
+Big thanks to TheoGN87 for providing pattern information on All Mixed Up, Super Hard, Penny's Mix and the story stages. Also a big thanks to
+Super Mario Wiki for providing information on all the wario cup patterns (although some were not fully completed, which I fixed for this app.)
+
 # Version 2.3 (2022-10-29)
 
 -Updated Remix and Remix 2.0 to microgame 999
