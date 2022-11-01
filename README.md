@@ -24,6 +24,14 @@ If you have any feedback to provide (more information on microgame patterns are 
 
 Finally, if you want to talk about anything related to WarioWare, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
 
+# Version 3.1 (2022-11-01)
+
+-New UI for Wario Cups menu
+
+-Fixed a bug where the quiz warning text didn't update when loading a new stage
+
+-Fixed u bug where quiz warnings sometimes did not work correctly on loopable stages
+
 # Version 3.0 (2022-11-01)
 
 -Added all Wario Cups
