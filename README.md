@@ -9,9 +9,9 @@ Super Hard,
 Thrill Ride,
 Penny's Mix,
 Remix,
-Remix 2.0
+Remix 2.0.
 
-<sub>*Wario's All-Stars, Pyoro Time!, Back to Basics and Pyoro Double Play are not included</sub>
+<sub>*Wario's All-Stars, Pyoro Time!, Back to Basics and Pyoro Double Play are not included.</sub>
 
 There is also a warning text a few microgames ahead of levels where "Answer Me!" can appear, to alert the player in advance.
 
