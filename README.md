@@ -30,7 +30,7 @@ Finally, if you want to talk about anything related to WarioWare, the WarioWare 
 
 -Fixed a bug where the quiz warning text didn't update when loading a new stage
 
--Fixed a bug where quiz warnings sometimes did not work correctly on loopable stages
+-Fixed a bug where quiz warnings sometimes did not work correctly on stages with looping patterns
 
 # Version 3.0 (2022-11-01)
 
