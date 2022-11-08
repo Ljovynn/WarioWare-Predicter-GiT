@@ -15,7 +15,7 @@ Remix 2.0.
 
 There is also a warning text a few microgames ahead of levels where "Answer Me!" can appear, to alert the player in advance.
 
-How to use: After choosing a stage, you can press space to go forward 1 level, Enter to go forward 10 levels, and backspace to go back 1 level.
+How to use: After choosing a stage, you can press space to go forward 1 level, Enter to go forward 10 levels, backspace to go back 1 level, and R to reset to level 1.
 
 Big thanks to TheoGN97 for providing pattern information on All Mixed Up, Super Hard, Penny's Mix and the story stages. Also a big thanks to
 Super Mario Wiki for providing information on all the wario cup patterns (although some were not fully completed, which I fixed for this app.)
@@ -23,6 +23,10 @@ Super Mario Wiki for providing information on all the wario cup patterns (althou
 If you have any feedback to provide (more information on microgame patterns are very appreciated), contact me on Discord: Ljovynn#2602
 
 Finally, if you want to talk about anything related to WarioWare, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
+
+# Version 3.2 (2022-11-08)
+
+-Pressing R now resets the stage to level 1
 
 # Version 3.1 (2022-11-01)
 
