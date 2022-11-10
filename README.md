@@ -22,7 +22,7 @@ Super Mario Wiki for providing information on all the wario cup patterns (althou
 
 If you have any feedback to provide (more information on microgame patterns are very appreciated), contact me on Discord: Ljovynn#2602
 
-Finally, if you want to talk about anything related to WarioWare, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
+Finally, if you want to talk about anything related to WarioWare, or share your high scores, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
 
 # Version 3.2 (2022-11-08)
 
