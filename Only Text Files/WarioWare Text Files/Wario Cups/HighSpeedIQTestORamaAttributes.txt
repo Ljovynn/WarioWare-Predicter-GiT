@@ -1,0 +1,6 @@
+0
+24
+Group 1,,GoodTimes,ReadyToLaunch,FireEmblemThreeHouses,Splatoon2,KeepingTrack,WhereGoesTheNose
+Group 2,,SortItOut,AlphabetFruit,MatchyMatryoshka,PerfectPercussion,RoShamBo,UnlockMe
+Group 3,,Wanted,WaywardWater,GameWatchJudge,ShadowSports,TheWaiterAwaits,MatchingMasks
+Group 4,,EyeExam,ChooChooChoose,LikeItOrLeaveIt,DestinyGame,MonochromeCreatures,PipeMaze

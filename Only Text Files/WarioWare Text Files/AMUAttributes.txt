@@ -1,0 +1,32 @@
+0
+999
+Anything Goes 1,Front,WhereGoesTheNose,PiggyPluck,MuscleOut,PopGoesTheParty,RoShamBo,GarlicCatch,MystifyingMirror,UnlockMe
+Anything Goes 2,Front/mid,BoxedUp,PipeMaze,InsideTheStorm,Gifted,CheekyBeaker,PushedToTheEdge,GetAwayGhost,WhatAHaul
+Anything Goes 3,Back,AnswerMe,NoteAbleArt,StopThief,FallForYou,BugOut,SameButDifferent,FlammableGoods,CautionSlippery
+Culture 1,Front,BambooFalls,HotAirHeroics,HotHoops,MatchyMatryoshka,GardenSecrets,PerfectPercussion,SnowmanAssembly
+Culture 2,Front/mid,BalanceTheScales,WeddingBells,StarLight,RockOn,MannekenPis,HiddenHolidays,BlowYourHorn,MatchingMasks,FireWorks
+Culture 3,Back,Spotlight,MagicTrickery,DigIt,TempestInATeapot,HideAndGoNinja,AMovingExperience
+Food 1,Front,RockCandy,BottleBall,AWeightyMatter,CornCleaner,IceCreamLean,BadVegetables,TheWaiterAwaits
+Food 2,Mid/back,AppleDrop,BlendedSplendid,StoveSlider,AlphabetFruit,RollCake,MouthsToFeed,BurstYourBottle,SlatheredInKetchup,BareBanana
+Food 3,Back,TakeASeat,DessertDefender,VeggieOut,FeastYourEyesOnThis,SoKneady,LightTheCake
+Fantasy 1,Front/mid,MushroomDoom,TheresAMonsterBehindYou,WeirdWindmill,ABigFan,SortItOut,UFBs,TheVampireArose,PitStop
+Fantasy 2,Mid/back,NightmareFuel,DragonsReign,BubbleCount,WaterYouWaitingFor,SwingAndAKiss,MeanMagic,MermaidTears,AlienTrap,GimmeFive
+Fantasy 3,Back,UmbrellaBrothers,FishyFelines,SeesawSpaceRace,WitchWhich,SlimeTime
+High Tech 1,Front,GreatEscape,ChooChooChoose,ShutterSpeed,CollisionCourse,CircuitOfLight,BlockPuzzle,ManicMechanic,BareNecessities
+High Tech 2,Mid/back,ReadyToLaunch,ThePowerOfMagnets,FactoryTour,ReadySetWarp,GondolaLift,LikeItOrLeaveIt,CrashCourse,HotSpot,YouCanLeadARobotToWater
+High Tech 3,Back,WaywardCyborg,LaserLabyrinth,VirusBuster,PopUpPatrol,WindUpPup
+Intro Games 1,Front,TreasureHunt,TummyTrouble,SleepClinic,RocketRush
+Intro Games 2,Mid,Wanted,SeeingStars,EyeExam,FleeTheFlashlight
+Intro Games 3,Back,StrikeGold,LandInTheSand,DefendTheFlowers,Swordplay
+Nintendo Classics 1,Front,SuperMarioLand,AnimalCrossingNewLeaf,IceClimber,DonkeyKongCountryReturns,WarioWare,DestinyGame,Splatoon2,LuigisMansion
+Nintendo Classics 2,Front/mid,NewSuperMarioBrosU,SuperMetroid,NintendoBadgeArcade,BigBrainAcademy,SuperMarioBros,TheLegendOfZeldaBreathOfTheWild,CaptainToadTreasureTracker,EleCongaAutoplayer,WarioWareTwisted
+Nintendo Classics 3,Back,Pikmin2,FireEmblemThreeHouses,DevilWorld,GameWatchJudge,YoshisStory
+Nature 1,Front,ShooFly,TurtleTipper,Peekaboo,KittyBusiness,ChompyChirpers,WebSurfer,OceanHero,FluffItOut
+Nature 2,Front/mid,StickToIt,CloudyWithAChanceOfSun,FamilyReunion,DoggoneThirsty,MonochromeCreatures,WheelYouOrWontYou,BreakTheIce,SayonaraSnakes
+Nature 3,Mid/back,EggItOn,CrayfishCrash,RollCall,DropZone,LookBothWays,DoFeedTheGiraffe
+Sports 1,Front/mid,PumpItUp,BasketAndBall,PerilChute,KeepingTrack,GymnAssist,WiggleDancing,BasicallyWaterPolo
+Sports 2,Mid/back,BounceBack,ReelEmIn,PleaseReefCycle,ShotBlocker,ArcherAssist,SpokeTooSoon,WobbleBoxing,MoleInOne,BaseballBreakIn
+Sports 3,Back,YogaMan,GetSwole,ShadowSports,SandTrapScoop,BoxingCowards,StrokeOfGenius
+That's Life 1,Front,DontWasteThePaste,TheCleaners,GoodTimes,AppealingMask,HideAndSeek,FoggyGlasses,GarbageDay,WaywardWater,IsAnyoneHome
+That's Life 2,Front/mid,GoldDigger,TheToothHurts,MissingRemote,ACallToFall,SanitationStation,RockABye,FaceWash,HostingHustle
+That's Life 3,Back,HitTheSwitch,MusicMischief,BreakTheBank,NailTheNail,StopTheStopper

@@ -1,0 +1,6 @@
+19
+999
+Group 1,,WhereGoesTheNose,PiggyPluck,MuscleOut,PopGoesTheParty,RoShamBo,GarlicCatch,MystifyingMirror,UnlockMe
+Group 2,,BoxedUp,PipeMaze,InsideTheStorm,Gifted,CheekyBeaker,PushedToTheEdge,GetAwayGhost,WhatAHaul
+Group 3,,AnswerMe,NoteAbleArt,StopThief,FallForYou,BugOut,SameButDifferent,FlammableGoods,CautionSlippery
+Boss,,PottyPursuit

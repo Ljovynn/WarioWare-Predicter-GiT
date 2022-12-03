@@ -1,0 +1,8 @@
+4
+10000
+Group 1,,TreasureHunt,StrikeGold,SeeingStars,HostingHustle,StarLight
+Group 2,,GreatEscape,HotSpot,IceClimber,FamilyReunion,DoFeedTheGiraffe
+Group 3,,SwingAndAKiss,ThePowerOfMagnets,CircuitOfLight,PerilChute,MatchyMatryoshka,PerfectPercussion
+Group 4,,GoodTimes,MushroomDoom,GameWatchJudge,ChompyChirpers,OceanHero,BounceBack,ArcherAssist,BlowYourHorn
+
+

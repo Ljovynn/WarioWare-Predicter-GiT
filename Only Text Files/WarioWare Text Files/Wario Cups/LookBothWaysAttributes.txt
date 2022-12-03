@@ -1,0 +1,10 @@
+16
+10000
+Group 1,,FishyFelines,OceanHero
+Group 2,,BareBanana,MuscleOut
+Group 3,,BigBrainAcademy,MatchingMasks
+Group 4,,DefendTheFlowers,CrayfishCrash
+Group 5,,SlimeTime,SayonaraSnakes
+Group 6,,MissingRemote,BreakTheBank
+Group 7,,SanitationStation,SnowmanAssembly
+Group 8,,EggItOn,BounceBack

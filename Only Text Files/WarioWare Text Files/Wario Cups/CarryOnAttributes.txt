@@ -1,0 +1,8 @@
+0
+17
+Group 1,,GondolaLift,WhatAHaul
+Group 2,,ABigFan,SuperMetroid,Spotlight
+Group 3,,AnimalCrossingNewLeaf,BasketAndBall
+Group 4,,DoFeedTheGiraffe,MouthsToFeed,TheWaiterAwaits,HotAirHeroics
+Group 5,,FoggyGlasses,BlowYourHorn
+Group 6,,FamilyReunion,SandTrapScoop,RollCake,AMovingExperience

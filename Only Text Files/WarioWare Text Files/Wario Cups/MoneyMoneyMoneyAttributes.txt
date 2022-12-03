@@ -1,0 +1,6 @@
+0
+15
+Group 1,,Wanted,BreakTheBank,DigIt,FlammableGoods
+Group 2,,DragonsReign,MermaidTears,PipeMaze
+Group 3,,StrikeGold,PiggyPluck,WhatAHaul,UnlockMe
+Group 4,,TreasureHunt,MushroomDoom,NewSuperMarioBrosU,BugOut

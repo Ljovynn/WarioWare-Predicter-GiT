@@ -1,0 +1,36 @@
+0
+34
+Super Mario Land,,SuperMarioLand
+Dig It,,DigIt
+Dragon's Reign,,DragonsReign
+The Legend of Zelda: Breath of the Wild,,TheLegendOfZeldaBreathOfTheWild
+Peril-Chute,,PerilChute
+Donkey Kong Country Returns,,DonkeyKongCountryReturns
+Blow Your Horn,,BlowYourHorn
+Roll Call,,RollCall
+Garden Secrets,,GardenSecrets
+Animal Crossing: New Leaf,,AnimalCrossingNewLeaf
+New Super Mario Bros. U,,NewSuperMarioBrosU
+Seeing Stars,,SeeingStars
+Pikmin 2,,Pikmin2
+Web Surfer,,WebSurfer
+Nail the Nail,,NailTheNail
+The Vampire Arose,,TheVampireArose
+Bug Out,,BugOut
+Captain Toad: Treasure Tracker,,CaptainToadTreasureTracker
+Appealing Mask,,AppealingMask
+Star Light,,StarLight
+Flee the Flashlight,,FleeTheFlashlight
+Fall for You,,FallForYou
+Pit Stop,,PitStop
+A Call to Fall,,ACallToFall
+Pipe Maze,,PipeMaze
+Yoshi's Story,,YoshisStory
+Egg It On,,EggItOn
+Take a Seat,,TakeASeat
+Gold Digger,,GoldDigger
+Peekaboo,,Peekaboo
+Nightmare Fuel,,NightmareFuel
+Hit the Switch,,HitTheSwitch
+Strike Gold,,StrikeGold
+UFBs,,UFBs

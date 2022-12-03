@@ -1,0 +1,5 @@
+15
+10000
+Group 1,,DefendTheFlowers,TheCleaners,TheresAMonsterBehindYou,SeesawSpaceRace,BounceBack,MouthsToFeed,BambooFalls
+Group 2,,BreakTheBank,ThePowerOfMagnets,OceanHero,BasicallyWaterPolo,RockCandy,DessertDefender,WhatAHaul
+Group 3,,MeanMagic,SlimeTime,FluffItOut,ShotBlocker,BaseballBreakIn,AWeightyMatter,SlatheredInKetchup,FlammableGoods

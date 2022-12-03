@@ -1,0 +1,18 @@
+0
+16
+Missing Remote,,MissingRemote
+Flee the Flashlight,,FleeTheFlashlight
+Factory Tour,,FactoryTour
+Yoshi's Story,,YoshisStory
+Get Away Ghost!,,GetAwayGhost
+New Super Mario Bros. U,,NewSuperMarioBrosU
+Look Both Ways,,LookBothWays
+Corn Cleaner,,CornCleaner
+Take a Seat,,TakeASeat
+Gold Digger,,GoldDigger
+Super Mario Bros.,,SuperMarioBros
+Appealing Mask,,AppealingMask
+Pipe Maze,,PipeMaze
+Is Anyone Home?,,IsAnyoneHome
+Great Escape,,GreatEscape
+Garden Secrets,,GardenSecrets

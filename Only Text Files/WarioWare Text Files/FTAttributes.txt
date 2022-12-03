@@ -1,0 +1,6 @@
+15
+999
+Group 1,,MushroomDoom,TheresAMonsterBehindYou,WeirdWindmill,ABigFan,SortItOut,UFBs,TheVampireArose,PitStop
+Group 2,,NightmareFuel,DragonsReign,BubbleCount,WaterYouWaitingFor,SwingAndAKiss,MeanMagic,MermaidTears,AlienTrap,GimmeFive
+Group 3,,UmbrellaBrothers,FishyFelines,SeesawSpaceRace,WitchWhich,SlimeTime
+Boss,,Poseidon

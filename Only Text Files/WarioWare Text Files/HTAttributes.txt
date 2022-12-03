@@ -1,0 +1,6 @@
+15
+999
+Group 1,,GreatEscape,ChooChooChoose,ShutterSpeed,CollisionCourse,CircuitOfLight,BlockPuzzle,ManicMechanic,BareNecessities
+Group 2,,ReadyToLaunch,ThePowerOfMagnets,FactoryTour,ReadySetWarp,GondolaLift,LikeItOrLeaveIt,CrashCourse,HotSpot,YouCanLeadARobotToWater
+Group 3,,WaywardCyborg,LaserLabyrinth,VirusBuster,PopUpPatrol,WindUpPup
+Boss,,RideTheLine

@@ -1,0 +1,32 @@
+30
+10000
+Fishy Felines,,FishyFelines
+The Waiter Awaits,,TheWaiterAwaits
+Ro-sham-bo,,RoShamBo
+Perfect Percussion,,PerfectPercussion
+Yoshi's Story,,YoshisStory
+Stick to It,,StickToIt
+Fire Works,,FireWorks
+You Can Lead a Robot to Water...,,YouCanLeadARobotToWater
+Mushroom Doom,,MushroomDoom
+Rock On!,,RockOn
+Shutter Speed,,ShutterSpeed
+Flee the Flashlight,,FleeTheFlashlight
+WarioWare,,WarioWare
+Sayonara Snakes,,SayonaraSnakes
+Bug Out,,BugOut
+Ready to Launch,,ReadyToLaunch
+Bubble Count,,BubbleCount
+Game & Watch Judge,,GameWatchJudge
+Unlock Me,,UnlockMe
+Shoo Fly!,,ShooFly
+Drop Zone,,DropZone
+Flammable Goods,,FlammableGoods
+Bad Vegetables,,BadVegetables
+Boxing Cowards,,BoxingCowards
+Roll Call,,RollCall
+Laser Labyrinth,,LaserLabyrinth
+Fall for You,,FallForYou
+Same but Different,,SameButDifferent
+Choo-Choo Choose,,ChooChooChoose
+Dragon's Reign,,DragonsReign

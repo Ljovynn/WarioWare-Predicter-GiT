@@ -1,0 +1,8 @@
+0
+16
+Group 1,,AppleDrop,GarlicCatch
+Group 2,,FishyFelines,MatchingMasks,WhereGoesTheNose
+Group 3,,OceanHero,ReelEmIn
+Group 4,,FleeTheFlashlight,Pikmin2,HotAirHeroics
+Group 5,,SlimeTime,AlienTrap,YoshisStory
+Group 6,,MissingRemote,SuperMarioLand,CornCleaner

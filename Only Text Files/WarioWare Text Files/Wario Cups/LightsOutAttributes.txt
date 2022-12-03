@@ -1,0 +1,5 @@
+15
+10000
+Group 1,,HitTheSwitch,ReadyToLaunch,BlockPuzzle,EggItOn,ShadowSports,LightTheCake,MagicTrickery,HotHoops
+Group 2,,StrikeGold,SeeingStars,MeanMagic,GreatEscape,IceClimber,LuigisMansion,FireWorks,PerfectPercussion
+Group 3,,FleeTheFlashlight,TheVampireArose,SuperMarioBros,MonochromeCreatures,BaseballBreakIn,Spotlight,StarLight,AnswerMe

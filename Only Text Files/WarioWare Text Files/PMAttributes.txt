@@ -1,0 +1,8 @@
+15
+999
+Short 1,,DontWasteThePaste,FoggyGlasses,SanitationStation,HostingHustle,IsAnyoneHome,PitStop,GondolaLift,ShooFly,TurtleTipper,GetSwole,BasicallyWaterPolo,WobbleBoxing,BaseballBreakIn,StoveSlider,RollCake,AWeightyMatter,CornCleaner,SoKneady,TempestInATeapot,MatchyMatryoshka,RockOn,FireWorks,FallForYou,FlammableGoods
+Long 1,,WeirdWindmill,SlimeTime,MermaidTears,LaserLabyrinth,ThePowerOfMagnets,FactoryTour,HotSpot,WindUpPup,LookBothWays,WeddingBells,MannekenPis,GetAwayGhost
+Short 2,,StrikeGold,SeeingStars,Swordplay,GoldDigger,ACallToFall,HitTheSwitch,NailTheNail,NightmareFuel,TheVampireArose,CollisionCourse,AnimalCrossingNewLeaf,LuigisMansion,WheelYouOrWontYou,DoFeedTheGiraffe,WebSurfer,SayonaraSnakes,BoxingCowards,BlendedSplendid,MouthsToFeed,Spotlight,HotHoops,WhereGoesTheNose,MuscleOut,PushedToTheEdge
+Long 2,,TummyTrouble,TheCleaners,StopTheStopper,TheresAMonsterBehindYou,GreatEscape,ChooChooChoose,DoggoneThirsty,KittyBusiness,ShadowSports,RockCandy,BalanceTheScales,BambooFalls
+Short 3,,AppealingMask,BreakTheBank,WaterYouWaitingFor,WaywardCyborg,ShutterSpeed,NewSuperMarioBrosU,SuperMarioLand,DonkeyKongCountryReturns,DevilWorld,ShotBlocker,TakeASeat,BadVegetables
+Long 3,,SleepClinic,SuperMetroid,PumpItUp,AMovingExperience,WhatAHaul,UnlockMe

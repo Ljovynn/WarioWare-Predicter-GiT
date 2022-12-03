@@ -1,0 +1,5 @@
+0
+15
+Group 1,,FleeTheFlashlight,NailTheNail,NewSuperMarioBrosU,TheLegendOfZeldaBreathOfTheWild,BambooFalls
+Group 2,,GoldDigger,DragonsReign,BlendedSplendid,CornCleaner,StopThief
+Group 3,,TreasureHunt,HitTheSwitch,SuperMarioLand,AnimalCrossingNewLeaf,RockOn

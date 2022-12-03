@@ -1,0 +1,19 @@
+0
+999
+Fantasy 1,,MushroomDoom,TheresAMonsterBehindYou,WeirdWindmill,ABigFan,SortItOut,UFBs,TheVampireArose,PitStop
+Fantasy 2,,NightmareFuel,DragonsReign,BubbleCount,WaterYouWaitingFor,SwingAndAKiss,MeanMagic,MermaidTears,AlienTrap,GimmeFive
+Fantasy 3,,UmbrellaBrothers,FishyFelines,SeesawSpaceRace,WitchWhich,SlimeTime
+High Tech 1,,GreatEscape,ChooChooChoose,ShutterSpeed,CollisionCourse,CircuitOfLight,BlockPuzzle,ManicMechanic,BareNecessities
+High Tech 2,,ReadyToLaunch,ThePowerOfMagnets,FactoryTour,ReadySetWarp,GondolaLift,LikeItOrLeaveIt,CrashCourse,HotSpot,YouCanLeadARobotToWater
+High Tech 3,,WaywardCyborg,LaserLabyrinth,VirusBuster,PopUpPatrol,WindUpPup
+Nintendo Classics 1,,SuperMarioLand,AnimalCrossingNewLeaf,IceClimber,DonkeyKongCountryReturns,WarioWare,DestinyGame,Splatoon2,LuigisMansion
+Nintendo Classics 2,,NewSuperMarioBrosU,SuperMetroid,NintendoBadgeArcade,BigBrainAcademy,SuperMarioBros,TheLegendOfZeldaBreathOfTheWild,CaptainToadTreasureTracker,EleCongaAutoplayer,WarioWareTwisted
+Nintendo Classics 3,,Pikmin2,FireEmblemThreeHouses,DevilWorld,GameWatchJudge,YoshisStory
+That's Life 1,,DontWasteThePaste,TheCleaners,GoodTimes,AppealingMask,HideAndSeek,FoggyGlasses,GarbageDay,WaywardWater,IsAnyoneHome
+That's Life 2,,GoldDigger,TheToothHurts,MissingRemote,ACallToFall,SanitationStation,RockABye,FaceWash,HostingHustle
+That's Life 3,,HitTheSwitch,MusicMischief,BreakTheBank,NailTheNail,StopTheStopper
+Spiky Wario,,SpikyWario
+Delivery Center,,DeliveryCenter
+Poseidon,,Poseidon
+Ride the Line,,RideTheLine
+Super Mario World,,SuperMarioWorld

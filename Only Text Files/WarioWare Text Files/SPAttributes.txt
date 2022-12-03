@@ -1,0 +1,6 @@
+15
+999
+Group 1,,PumpItUp,BasketAndBall,PerilChute,KeepingTrack,GymnAssist,WiggleDancing,BasicallyWaterPolo
+Group 2,,BounceBack,ReelEmIn,PleaseReefCycle,ShotBlocker,ArcherAssist,SpokeTooSoon,WobbleBoxing,MoleInOne,BaseballBreakIn
+Group 3,,YogaMan,GetSwole,ShadowSports,SandTrapScoop,BoxingCowards,StrokeOfGenius
+Boss,,RockClimber

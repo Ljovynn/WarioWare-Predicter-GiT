@@ -1,0 +1,7 @@
+20
+10000
+Group 1,,TheresAMonsterBehindYou,GimmeFive,GreatEscape,TakeASeat,InsideTheStorm
+Group 2,,TummyTrouble,NailTheNail,HotSpot,BareNecessities,SuperMarioLand,DigIt,PopGoesTheParty
+Group 3,,RocketRush,GameWatchJudge,PipeMaze,MystifyingMirror
+Group 4,,FleeTheFlashlight,GoldDigger,FactoryTour,NewSuperMarioBrosU,SuperMarioBros,IceClimber,LookBothWays,LightTheCake,MatchingMasks,GetAwayGhost
+Group 5,,MissingRemote,MermaidTears,SuperMetroid,FamilyReunion,BasketAndBall,WhatAHaul

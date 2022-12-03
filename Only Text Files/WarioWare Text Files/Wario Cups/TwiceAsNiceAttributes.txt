@@ -1,0 +1,8 @@
+24
+10000
+Group 1,,LaserLabyrinth,NintendoBadgeArcade,LookBothWays,BoxingCowards
+Group 2,,MeanMagic,BurstYourBottle,BoxedUp,InsideTheStorm
+Group 3,,GarbageDay,WaywardCyborg,FactoryTour,GetAwayGhost
+Group 4,,HideAndSeek,UmbrellaBrothers,GreatEscape,DevilWorld
+Group 5,,ChooChooChoose,IceClimber,TakeASeat,BadVegetables
+Group 6,,TheToothHurts,TheresAMonsterBehindYou,MatchingMasks,FallForYou

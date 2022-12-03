@@ -1,0 +1,8 @@
+0
+16
+Group 1,,ReadySetWarp,YogaMan
+Group 2,,IsAnyoneHome,PumpItUp,GymnAssist
+Group 3,,DontWasteThePaste,MagicTrickery
+Group 4,,StoveSlider,IceCreamLean,AnswerMe
+Group 5,,ArcherAssist,HotAirHeroics
+Group 6,,CaptainToadTreasureTracker,KeepingTrack,WobbleBoxing,MuscleOut

@@ -1,0 +1,6 @@
+15
+999
+Group 1,,SuperMarioLand,AnimalCrossingNewLeaf,IceClimber,DonkeyKongCountryReturns,WarioWare,DestinyGame,Splatoon2,LuigisMansion
+Group 2,,NewSuperMarioBrosU,SuperMetroid,NintendoBadgeArcade,BigBrainAcademy,SuperMarioBros,TheLegendOfZeldaBreathOfTheWild,CaptainToadTreasureTracker,EleCongaAutoplayer,WarioWareTwisted
+Group 3,,Pikmin2,FireEmblemThreeHouses,DevilWorld,GameWatchJudge,YoshisStory
+Boss,,SuperMarioWorld

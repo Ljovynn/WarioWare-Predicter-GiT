@@ -1,0 +1,48 @@
+Speed Skater.SpeedSkater.Score
+Survival Training.SurvivalTraining.Score
+Timed IQ Test-o-rama.TimedIQTestORama.Time
+Fire and Ice.FireAndIce.Score
+Pyoro, Pyoro!.PyoroPyoro.Score
+Odd Ones Out.OddOnesOut.Time
+Disc Jockey.DiscJockey.Score
+High Speed IQ Test-o-rama.HighSpeedIQTestORama.Score
+All Hail the Taxi Drivers.AllHailTheTaxiDrivers.Time
+Time Out.TimeOut.Score
+Speed Trap.SpeedTrap. Score
+Opposable Fun.OpposableFun.Time
+Intro to Gravity.IntroToGravity.Score
+Mother and Son.MotherAndSon.Score
+Kick it Up a Notch.KickItUpANotch.Score
+Super Mario World Marathon.SuperMarioWorldMarathon.Time
+Wario's IQ Test-o-rama.WariosIQTestORama.Score
+More Pyoro?.MorePyoro.Time
+The Most Dangerous Games.TheMostDangerousGames.Score
+Let the Music Move You.LetTheMusicMoveYou.Score
+Best Day Ever.BestDayEver.Time
+Better with Age.BetterWithAge.Score
+Look Both Ways.LookBothWays.Score
+My Worst Nightmare.MyWorstNightmare.Time
+Cute to Boot.CuteToBoot.Score
+High to Low.HighToLow.Time
+You Break, You Buy.YouBreakYouBuy.Score
+Non-stop Ninjas.NonStopNinjas.Score
+Yo-yo Time.YoYoTime.Time
+Carry On.CarryOn.Score
+Twice as Nice.TwiceAsNice.Score
+Starring Penny.StarringPenny.Time
+Money, Money, Money!.MoneyMoneyMoney.Score
+IQ Test-o-rama.IQTestORama.Score
+A Surprising Combination.ASurprisingCombination.Time
+Bring a Towel.BringATowel.Score
+Tough to Master.ToughToMaster.Score
+Fun with Projectiles.FunWithProjectiles.Time
+Enough with the Heroics.EnoughWithTheHeroics.Score
+27-Volt.27Volt.Score
+That's Pushing It.ThatsPushingIt.Score
+Magic Formula.MagicFormula.Score
+On Repeat.OnRepeat.Time
+Expect to Collect.ExpectToCollect.Score
+Wise Guys.WiseGuys.Score
+The Ringers.TheRingers.Time
+Shake Well.ShakeWell.Score
+Lights Out.LightsOut.Score

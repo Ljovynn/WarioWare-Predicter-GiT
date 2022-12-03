@@ -1,0 +1,16 @@
+0
+14
+Fire Works,,FireWorks
+Snowman Assembly,,SnowmanAssembly
+Manneken Pis,,MannekenPis
+Break the Ice,,BreakTheIce
+Hot Hoops,,HotHoops
+Pikmin 2,,Pikmin2
+Stove Slider,,StoveSlider
+Ice-Cream Lean,,IceCreamLean
+Flammable Goods,,FlammableGoods
+Weird Windmill,,WeirdWindmill
+Light the Cake,,LightTheCake
+Star Light,,StarLight
+Super Mario Bros.,,SuperMarioBros
+Ice Climber,,IceClimber

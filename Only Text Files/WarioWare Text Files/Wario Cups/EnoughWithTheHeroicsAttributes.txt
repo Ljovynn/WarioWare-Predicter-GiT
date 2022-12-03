@@ -1,0 +1,8 @@
+0
+16
+Group 1,,UFBs,VirusBuster
+Group 2,,HostingHustle,TheVampireArose,ShotBlocker
+Group 3,,BareNecessities,FlammableGoods
+Group 4,,WarioWare,StopThief,CautionSlippery
+Group 5,,ABigFan,DessertDefender
+Group 6,,TummyTrouble,WebSurfer,PerilChute,IceCreamLean

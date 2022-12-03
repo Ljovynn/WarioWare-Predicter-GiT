@@ -1,0 +1,8 @@
+0
+15
+Group 1,,LookBothWays,BreakTheIce
+Group 2,,TheresAMonsterBehindYou,PerilChute,MannekenPis
+Group 3,,StickToIt,FlammableGoods
+Group 4,,MushroomDoom,SuperMarioBros,IceClimber
+Group 5,,MissingRemote,HotHoops
+Group 6,,FactoryTour,NewSuperMarioBrosU,LightTheCake

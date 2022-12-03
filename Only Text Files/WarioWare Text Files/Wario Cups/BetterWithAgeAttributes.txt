@@ -1,0 +1,8 @@
+0
+18
+Group 1,,FoggyGlasses,WarioWareTwisted,BaseballBreakIn
+Group 2,,ReelEmIn,BoxingCowards,StarLight
+Group 3,,FaceWash,PitStop,GetSwole
+Group 4,,MeanMagic,VirusBuster,StopThief
+Group 5,,AppealingMask,BalanceTheScales,MagicTrickery
+Group 6,,EggItOn,SayonaraSnakes,InsideTheStorm

@@ -1,0 +1,6 @@
+15
+10000
+Group 1,,DefendTheFlowers,ACallToFall,Swordplay,PitStop,VirusBuster,LuigisMansion,CloudyWithAChanceOfSun,BambooFalls,WhatAHaul
+Group 2,,MermaidTears,DropZone,BounceBack,BoxingCowards
+Group 3,,TummyTrouble,SortItOut,HotSpot,SuperMetroid,Peekaboo,SayonaraSnakes,SandTrapScoop,MatchingMasks,BoxedUp,GetAwayGhost,CautionSlippery
+Group 4,,WaywardWater,GreatEscape,CircuitOfLight,WindUpPup,DevilWorld,TakeASeat,RockCandy,IceCreamLean

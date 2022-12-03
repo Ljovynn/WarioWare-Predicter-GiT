@@ -1,0 +1,18 @@
+0
+999
+Culture 1,,BambooFalls,HotAirHeroics,HotHoops,MatchyMatryoshka,GardenSecrets,PerfectPercussion,SnowmanAssembly
+Culture 2,,BalanceTheScales,WeddingBells,StarLight,RockOn,MannekenPis,HiddenHolidays,BlowYourHorn,MatchingMasks,FireWorks
+Culture 3,,Spotlight,MagicTrickery,DigIt,TempestInATeapot,HideAndGoNinja,AMovingExperience
+Food 1,,RockCandy,BottleBall,AWeightyMatter,CornCleaner,IceCreamLean,BadVegetables,TheWaiterAwaits
+Food 2,,AppleDrop,BlendedSplendid,StoveSlider,AlphabetFruit,RollCake,MouthsToFeed,BurstYourBottle,SlatheredInKetchup,BareBanana
+Food 3,,TakeASeat,DessertDefender,VeggieOut,FeastYourEyesOnThis,SoKneady,LightTheCake
+Nature 1,,ShooFly,TurtleTipper,Peekaboo,KittyBusiness,ChompyChirpers,WebSurfer,OceanHero,FluffItOut
+Nature 2,,StickToIt,CloudyWithAChanceOfSun,FamilyReunion,DoggoneThirsty,MonochromeCreatures,WheelYouOrWontYou,BreakTheIce,SayonaraSnakes
+Nature 3,,EggItOn,CrayfishCrash,RollCall,DropZone,LookBothWays,DoFeedTheGiraffe
+Sports 1,,PumpItUp,BasketAndBall,PerilChute,KeepingTrack,GymnAssist,WiggleDancing,BasicallyWaterPolo
+Sports 2,,BounceBack,ReelEmIn,PleaseReefCycle,ShotBlocker,ArcherAssist,SpokeTooSoon,WobbleBoxing,MoleInOne,BaseballBreakIn
+Sports 3,,YogaMan,GetSwole,ShadowSports,SandTrapScoop,BoxingCowards,StrokeOfGenius
+Safari Tour,,SafariTour
+Rock Climber,,RockClimber
+Great Juice,,GreatJuice
+Drawbridge Dilemma,,DrawbridgeDilemma

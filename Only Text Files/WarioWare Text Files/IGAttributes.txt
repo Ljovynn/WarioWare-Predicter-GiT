@@ -1,0 +1,6 @@
+10
+999
+Group 1,,TreasureHunt,TummyTrouble,SleepClinic,RocketRush
+Group 2,,Wanted,SeeingStars,EyeExam,FleeTheFlashlight
+Group 3,,StrikeGold,LandInTheSand,DefendTheFlowers,Swordplay
+Boss,,SpikyWario

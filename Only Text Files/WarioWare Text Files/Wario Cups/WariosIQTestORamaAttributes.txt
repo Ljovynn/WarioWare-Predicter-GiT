@@ -1,0 +1,5 @@
+15
+10000
+Group 1,,GoodTimes,ReadyToLaunch,FireEmblemThreeHouses,Splatoon2,KeepingTrack
+Group 2,,SortItOut,AlphabetFruit,MatchyMatryoshka,PerfectPercussion,RoShamBo,UnlockMe
+Group 3,,Wanted,GameWatchJudge,ShadowSports,TheWaiterAwaits,MatchingMasks,WhereGoesTheNose
