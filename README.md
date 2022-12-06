@@ -24,6 +24,14 @@ If you have any feedback to provide (more information on microgame patterns are 
 
 Finally, if you want to talk about anything related to WarioWare, or share your high scores, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
 
+# Version 3.3 (2022-12-06)
+
+-Fixed an error in the Wario Cup Mother and Son, where the microgame Good Times would falsely be indicated appear in group 2 instead of group 1
+
+-Fixed some minor mistakes in a few text files
+
+-Exiting the program is much quicker than before
+
 # Version 3.2 (2022-11-08)
 
 -Pressing R now resets the stage to level 1

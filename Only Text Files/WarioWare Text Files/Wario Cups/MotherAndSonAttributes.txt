@@ -1,5 +1,5 @@
 15
 10000
-Group 1,,DontWasteThePaste,TheCleaners,AppealingMask,HideAndSeek,GarbageDay,WaywardWater,IsAnyoneHome
-Group 2,,GoldDigger,GoodTimes,TheToothHurts,ACallToFall,SanitationStation,RockABye,FaceWash,HostingHustle,GoldDigger
+Group 1,,DontWasteThePaste,TheCleaners,GoodTimes,AppealingMask,HideAndSeek,GarbageDay,WaywardWater,IsAnyoneHome
+Group 2,,GoldDigger,TheToothHurts,ACallToFall,SanitationStation,RockABye,FaceWash,HostingHustle,GoldDigger
 Group 3,,FoggyGlasses,HitTheSwitch,MusicMischief,BreakTheBank,NailTheNail,StopTheStopper,BareNecessities
