@@ -12,7 +12,6 @@ Nintendo Classics 3,,Pikmin2,FireEmblemThreeHouses,DevilWorld,GameWatchJudge,Yos
 That's Life 1,,DontWasteThePaste,TheCleaners,GoodTimes,AppealingMask,HideAndSeek,FoggyGlasses,GarbageDay,WaywardWater,IsAnyoneHome
 That's Life 2,,GoldDigger,TheToothHurts,MissingRemote,ACallToFall,SanitationStation,RockABye,FaceWash,HostingHustle
 That's Life 3,,HitTheSwitch,MusicMischief,BreakTheBank,NailTheNail,StopTheStopper
-Spiky Wario,,SpikyWario
 Delivery Center,,DeliveryCenter
 Poseidon,,Poseidon
 Ride the Line,,RideTheLine
