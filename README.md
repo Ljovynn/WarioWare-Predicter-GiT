@@ -26,7 +26,7 @@ Finally, if you want to talk about anything related to WarioWare, or share your 
 
 # Version 3.3 (2022-12-06)
 
--Fixed an error in the Wario Cup Mother and Son, where the microgame Good Times would falsely be indicated appear in group 2 instead of group 1
+-Fixed an error in the Wario Cup Mother and Son, where the microgame Good Times would falsely be indicated to appear in group 2 instead of group 1
 
 -Fixed some minor mistakes in a few text files
 
