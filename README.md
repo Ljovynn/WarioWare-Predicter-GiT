@@ -20,7 +20,7 @@ How to use: After choosing a stage, you can press space to go forward 1 level, E
 Big thanks to TheoGN97 for providing pattern information on All Mixed Up, Super Hard, Penny's Mix and the story stages. Also a big thanks to
 Super Mario Wiki for providing information on all the wario cup patterns (although some were not fully completed, which I fixed for this app.)
 
-If you have any feedback to provide (more information on microgame patterns are very appreciated), contact me on Discord: Ljovynn#2602
+If you have any feedback to provide (more information on microgame patterns are very appreciated), contact me on Discord: ljovynn
 
 Finally, if you want to talk about anything related to WarioWare, or share your high scores, the WarioWare Cult Discord is the best place on the internet for that: https://discord.com/invite/ZRJWynWgGx
 
