@@ -4,7 +4,7 @@ Every stage has two text files, one file that contains the pattern list,
 and one that contains the attributes of the stage.
 
 For example, Anything Goes has two text files: "AG.txt" and "AGAttributes.txt"
-Since Anything Goes' pattern is 15 microgames long, "AG.txt" contains 15 lines,
+Since Anything Goes' pattern is 19 microgames long, "AG.txt" contains 19 lines,
 where one line represents one microgame group.
 
 "AGAttributes.txt" has two lines at the start, the first one contains the
