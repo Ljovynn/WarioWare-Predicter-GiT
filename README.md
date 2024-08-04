@@ -1,6 +1,9 @@
 # WarioWare-Predicter-GiT
 A program for the game WarioWare: Get it Together that can predict microgames.
 
+Update 2024-08-04: I have ported this app to a website: https://ljovynn.github.io/WWGIT/main.html
+The website has basically every feature that the app has, but it's a lot more accessible since you don't have to download anything, and you can use it on any device
+
 The current stages the program can predict microgames for are: 
 Every story stage,
 Every Wario Cup*,
